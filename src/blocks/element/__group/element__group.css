@@ -1,0 +1,8 @@
+.element__group {
+  max-width: 246px;
+  padding: 22px 15px 22px 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+}
